@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Smart Stopwatch</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="lap">Lap</string>
+    <string name="history">History</string>
+    <string name="voice_control">Voice Control</string>
+    <string name="export">Export</string>
+    <string name="session_history">Session History</string>
+    <string name="no_laps_recorded">No laps recorded</string>
+    <string name="no_sessions_found">No sessions found</string>
+    <string name="export_success">Session exported successfully</string>
+    <string name="export_failed">Failed to export session</string>
+    <string name="voice_instructions">Say "start", "pause", or "reset"</string>
+    <string name="listening">Listening...</string>
+</resources>
